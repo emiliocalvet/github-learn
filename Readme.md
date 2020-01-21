@@ -10,3 +10,4 @@ git status -> mostra quais arquivos estão em que estados no repositório.
 git log -> mostra um histórico do repositório (mostra a hash do commit).
 git shortlog -> mostra um histórico mais simples.
 git show <hash do commit> -> mostra quais foram as alterações realizadas naquele commmit.
+git diff -> mostra quais foram as atualizações realizadas antes de fazer commit.
