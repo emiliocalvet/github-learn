@@ -13,4 +13,4 @@ git show <hash do commit> -> mostra quais foram as alterações realizadas naque
 git diff -> mostra quais foram as atualizações realizadas antes de fazer commit.
 git checkout <nome do arquivo> -> traz o arquivo de modified para unmodified (desfaz modificações).
 git reset HEAD <nome do arquivo> -> traz o arquivo de staged para modified.
-git reset --(soft, mixed ou hard) -> traz do commit para staged, modified ou unmodified respectivamente.
+git reset --(soft, mixed ou hard) <hash do commit> -> traz do commit para staged, modified ou unmodified respectivamente.
