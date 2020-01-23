@@ -23,3 +23,7 @@ git checkout <nome do arquivo> -> traz o arquivo de modified para unmodified (de
 git reset HEAD <nome do arquivo> -> traz o arquivo de staged para modified.
 
 git reset --(soft, mixed ou hard) <hash do commit> -> traz do commit para staged, modified ou unmodified respectivamente.
+
+(OBS) Branchs são ponteiros que apontam para os commits.
+
+git checkout -b <nome do branch> -> criar novo branch.
