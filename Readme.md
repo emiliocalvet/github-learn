@@ -27,3 +27,7 @@ git reset --(soft, mixed ou hard) <hash do commit> -> traz do commit para staged
 (OBS) Branchs são ponteiros que apontam para os commits.
 
 git checkout -b <nome do branch> -> criar novo branch.
+
+git branch -> mostra lista de branchs.
+
+
