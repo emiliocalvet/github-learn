@@ -28,6 +28,8 @@ git reset --(soft, mixed ou hard) <hash do commit> -> traz do commit para staged
 
 git checkout -b <nome do branch> -> criar novo branch.
 
+git checkout <nome do branch> -> trocar de branch.
+
 git branch -> mostra lista de branchs.
 
-
+git branch -D <nome do branch> -> deletar o branch.
